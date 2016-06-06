@@ -3,7 +3,7 @@ Name of Quantlet: SMSdrafcar
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'Produces draftsman's plots and density contour plots for the car data. Within the scatterplots, the squares mark US cars, the triangles mark Japanese cars and the circles mark European cars. The bandwidths for the kernel density estimation of the countours are selected via Scott's rule of thumb.'
+Description: 'Produces draftsman''s plots and density contour plots for the car data. Within the scatterplots, the squares mark US cars, the triangles mark Japanese cars and the circles mark European cars. The bandwidths for the kernel density estimation of the countours are selected via Scott''s rule of thumb.'
 
 Keywords: contour, data visualization, density, graphical representation, kde, kernel, multi-dimensional, multivariate, plot, scatterplot, visualization
 
@@ -19,4 +19,4 @@ Submitted:  Fri, August 07 2015 by Awdesch Melzer
 Datafile[r]: carc.rda
 Datafile[m]: carc.txt
 
-Example: 'Draftsman's plots and density contour plots for the car data. In scatterplots, the squares mark US cars, the triangles mark Japanese cars and the circles mark European cars.'
+Example: 'Draftsman''s plots and density contour plots for the car data. In scatterplots, the squares mark US cars, the triangles mark Japanese cars and the circles mark European cars.'

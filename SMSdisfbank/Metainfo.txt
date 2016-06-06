@@ -2,7 +2,7 @@ Name of Quantlet: SMSdisfbank
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'Computes Fisher's linear discrimination
+Description: 'Computes Fisher''s linear discrimination
                function (LDA) either for the 20 bank notes from Exercise 12.6 or
                for a random set of banknotes. The discrimination function
                is then applied to the the entire bank data set. With the 

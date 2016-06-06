@@ -2,7 +2,7 @@ Name of Quantlet: SMScorrcarm1
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'Estimates the canonical variables for a subset of variables of the car marks data set: X - (price, value)', Y - (economy, service, design, sportiness, safety, easy handling)'. A scatterplot of the first 2 canonical variables are presented. The relationship between the two canonical variables is moderate.'
+Description: 'Estimates the canonical variables for a subset of variables of the car marks data set: X - (price, value)'', Y - (economy, service, design, sportiness, safety, easy handling)''. A scatterplot of the first 2 canonical variables are presented. The relationship between the two canonical variables is moderate.'
 
 Keywords: 'canonical correlation, covariance, eigenvalue, eigenvector, singular value decomposition, canonical vector, canonical variable'
 

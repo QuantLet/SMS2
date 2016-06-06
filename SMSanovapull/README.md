@@ -19,9 +19,9 @@ A company decides to compare the effect of three marketing strategies:
 on the sales of their portfolio in 30 shops.
 The 30 shops were divided into 3 groups of 10 shops.
 The sales using the strategies 1, 2, and 3 were
-y1 = (9, 11, 10, 12, 7, 11, 12, 10, 11, 13)',
-y2 = (10, 15, 11, 15, 15, 13, 7, 15, 13, 10)', and
-y3 = (18, 14, 17, 9, 14, 17, 16, 14, 17, 15)', respectively.
+y1 = (9, 11, 10, 12, 7, 11, 12, 10, 11, 13)'',
+y2 = (10, 15, 11, 15, 15, 13, 7, 15, 13, 10)'', and
+y3 = (18, 14, 17, 9, 14, 17, 16, 14, 17, 15)'', respectively.
 A null hypothesis of equality of means of the three groups
 is tested. The standard approach of using ANOVA leads to
 an F-test. The alternative proposition is to use a

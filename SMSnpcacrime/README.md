@@ -28,8 +28,8 @@ Example: 'Visualization of variables and individuals after dimension reduction. 
 ```
 
 
-![Picture1](SMSnpcacrime01_r.png)
-![Picture1](SMSnpcacrime02_r.png)
+![Picture1](SMSnpcacrime1_r.png)
+![Picture1](SMSnpcacrime2_r.png)
 
 
 ```R

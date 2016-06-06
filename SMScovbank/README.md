@@ -13,7 +13,7 @@ Published in: Multivariate Statistics: Exercises and Solutions
 Description: 'calculates the covariance matrix (and eigevalues)
 of the Swiss Bank (bank2.dat) dataset and the variance of
 the counterfeit bank notes (observations 101-200) after they 
-were lineary transformed by a vector a = (1, 1, 1, 1, 1, 1)'.'
+were lineary transformed by a vector a = (1, 1, 1, 1, 1, 1)''.'
 
 Keywords: 'covariance, eigenvalues, spectral decomposition,
 multivariate, multi dimensional, variance, transformation,
