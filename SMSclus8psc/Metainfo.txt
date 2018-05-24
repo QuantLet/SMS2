@@ -1,4 +1,4 @@
-Name of Quantlet : MVAclus8psc
+Name of Quantlet : SMSclus8psc
 
 Published in : 'Multivariate Statistics: Exercises and Solutions'
 
