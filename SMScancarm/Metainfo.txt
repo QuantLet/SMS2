@@ -1,4 +1,4 @@
-Name of Quantlet: SMScorrcarm
+Name of Quantlet: SMScancarm
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
