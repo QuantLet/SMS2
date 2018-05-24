@@ -1,4 +1,4 @@
-Name of Quantlet: SMSsir2simu
+Name of Quantlet: SMSsirsimu
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
