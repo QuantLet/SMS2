@@ -1,5 +1,5 @@
 
-Name of Quantlet: SMSdete2pull
+Name of Quantlet: SMSdeterpull
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
