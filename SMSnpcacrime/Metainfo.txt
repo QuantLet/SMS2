@@ -1,6 +1,6 @@
 Name of Quantlet: SMSnpcacrime
 
-Published in: Multivariate Statistics: Exercises and Solutions
+Published in: 'Multivariate Statistics: Exercises and Solutions'
 
 Description: 'Computes normalized principal components for US crime data set which consists of the reported number of crimes in the 50 US states in 1985. The crimes were classified according to 7 categories: murder, rape, robbery, assault, burglary, larceny, and auto theft. The data set also contains identification of the resion: Northeast, Midwest, South, West. After scaling the variables, a NPCA is perfomed the reported felonies. A scatterplot of the first two principal components, a screeplot and a plot of the correlations of the first two PCs with the original variables.'
 

@@ -1,9 +1,9 @@
 
 Name of Quantlet: SMSdenbank
 
-Published in: Multivariate Statistics: Exercises and Solutions
+Published in: 'Multivariate Statistics: Exercises and Solutions'
 
-Description: 'Computes kernel density estimates of the diagonal of the genuine and forged swiss bank notes. The bandwidth parameter are chosen by Silverman's rule of thumb.'
+Description: "Computes kernel density estimates of the diagonal of the genuine and forged swiss bank notes. The bandwidth parameter are chosen by Silverman's rule of thumb."
 
 Keywords: Silverman, bandwidth, data visualization, density, estimation, gaussian, graphical representation, kde, kernel, plot
 

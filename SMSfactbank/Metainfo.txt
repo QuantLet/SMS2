@@ -1,19 +1,10 @@
 Name of Quantlet: SMSfactbank
 
-Published in: Multivariate Statistics: Exercises and Solutions
+Published in: 'Multivariate Statistics: Exercises and Solutions'
 
-Description: 'Performs a factor analysis on the variables 
-               'Length','Height Left','Height Right','Inner Frame Lower',
-               'Inner Frame Upper' and 'Diagonal' in the bank data set
-               using iterated principal factors method (iPFM)
-               with and without manual rotation by an angle of 7*pi/12
-               counterclockwise. Estimated factor loadings, communalities
-               and specific variances are presented in a table, plots of
-               original and rotated factor loadings are given'
+Description: "Performs a factor analysis on the variables 'Length','Height Left','Height Right','Inner Frame Lower', 'Inner Frame Upper' and 'Diagonal' in the bank data set using iterated principal factors method (iPFM) with and without manual rotation by an angle of 7*pi/12 counterclockwise. Estimated factor loadings, communalities and specific variances are presented in a table, plots of original and rotated factor loadings are given"
 
-Keywords: 'Factor Analysis, standardization, Principal Factors Method,
-Iterated Principal Factors Method, Rotation, Varimax,
-factor-loadings, iPFM, PFM, specific variance, factor analysis, factor scores'
+Keywords: 'Factor Analysis, standardization, Principal Factors Method, Iterated Principal Factors Method, Rotation, Varimax, factor-loadings, iPFM, PFM, specific variance, factor analysis, factor scores'
 
 See also: 'SMSfactbank, SMSfactfood, SMSfacthletic, SMSfactsigma, SMSfactuscrime, SMSfactushealth, SMSfactvocab'
 

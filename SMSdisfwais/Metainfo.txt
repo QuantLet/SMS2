@@ -1,8 +1,8 @@
 Name of Quantlet: SMSdisfwais
 
-Published in: Multivariate Statistics: Exercises and Solutions
+Published in: 'Multivariate Statistics: Exercises and Solutions'
 
-Description: 'computes Fisher's linear discrimination function for the wais data set. The apparent error rate (APER) and the actual error rate (AER) are computed. APER = 0.2449, AER = 0.3061.'
+Description: "computes Fisher's linear discrimination function for the wais data set. The apparent error rate (APER) and the actual error rate (AER) are computed. APER = 0.2449, AER = 0.3061."
 
 Keywords: 'Fisher LDA, discriminant analysis, aper, discrimination, Fisher, LDA, aer'
 
