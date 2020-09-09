@@ -12,7 +12,9 @@ SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrim
 SMScluscrimechi2, SMSclushealth'
 
 Author : Awdesch Melzer
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Submitted : Fri, August 22 2014 by Awdesch Melzer
+Submitted[Python]: 'Wed, September 9 2020 by Liudmila Gorkun-Voevoda'
  
 Example : 8 points example for centroid algorithm
