@@ -10,5 +10,6 @@ See also: 'MVAQnetClusKmeans, MVAQnetClusKmeansB, MVAQnetClusKmeansT, MVAcarsim,
 
 Author[r]: Zdenek Hlavka, Awdesch Melzer
 Author[m]: Awdesch Melzer
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Example: 'ward algorithm and dendrogram and complete linkage algorithm and dendrogram'
