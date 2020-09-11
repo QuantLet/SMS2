@@ -10,6 +10,7 @@ See also: 'MVAQnetClusKmeans, MVAQnetClusKmeansB, MVAQnetClusKmeansT, MVAcarsim,
 
 Author[r]: Tomas Hovorka, Awdesch Melzer
 Author[m]: Awdesch Melzer
+Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
 
 Example[r]: 'Figure 1: Single linkage using squared Euclidean and Euclidean distance for 8 points example. Figure 2: Eight points and ward dendrogram'
 Example[m]: 'Single linkage using squared Euclidean and Euclidean distance for 8 points example'
