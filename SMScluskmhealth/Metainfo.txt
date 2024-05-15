@@ -13,6 +13,7 @@ See also : 'MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pmst2, SM
 SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth'
 
 Author : Simon Trimborn, Awdesch Melzer
+Author[Python] : Raul Cristian Bag
 
 Submitted : Fri, August 22 2014 by Awdesch Melzer
 
