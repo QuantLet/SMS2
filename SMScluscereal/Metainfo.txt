@@ -15,6 +15,7 @@ SMSclus8p, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3,
 SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth, SMScluskmcereal'
 
 Author : Simon Trimborn, Awdesch Melzer
+Author[Python] : Raul Cristian Bag
 
 Submitted : Fri, August 22 2014 by Awdesch Melzer
 
