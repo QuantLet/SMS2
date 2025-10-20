@@ -3,18 +3,15 @@ Name of Quantlet: SMSdeterpull
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'compares linear regression of  sales (X1) on 
-price and advert (X2, X3) and price and ass. hours (x2,x4)
-from the pullovers data set'
+Description: 'compares linear regression of  sales (X1) on price and advert (X2, X3) and price and ass. hours (x2,x4) from the pullovers data set'
 
 Keywords: 'linear, linear model, linear regression, least-squares, R-squared, regression, F test, F-statistic, F-test, test, summary, statistics'
 
 See also: 'SMSanovapull, SMSdete2pull, SMSdeterpull, SMSlinregpull, SMSscabank45, SMScovbank'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka, Awdesch Melzer
 
-Submitted: 
+Submitted:  27.02.2015
 
 Datafile[r]: pullover.rda
 Datafile[m]: pullover.dat 
