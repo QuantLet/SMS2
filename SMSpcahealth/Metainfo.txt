@@ -2,26 +2,15 @@ Name of Quantlet: SMSpcahealth
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'Employs the principal component analysis to the 
-               US health data set which contains reported numbers of deaths in
-               the 50 U.S. states classified according to 7 categories: accident,
-               cardiovascular, cancer, pulmonary, pneumonia flu, diabetes, and
-               liver. Normalizing the data gives equal importance to each cause
-               of death. Not normalizing however, leaves the most prominent role
-               to the variables causing largest number of deaths. Correlations
-               of the first two PCs with the original variables, the screeplot
-               and a scatterplot of the first two principal components are
-               are presented.'
+Description: 'Employs the principal component analysis to the US health data set which contains reported numbers of deaths in the 50 U.S. states classified according to 7 categories: accident, cardiovascular, cancer, pulmonary, pneumonia flu, diabetes, and liver. Normalizing the data gives equal importance to each cause of death. Not normalizing however, leaves the most prominent role to the variables causing largest number of deaths. Correlations of the first two PCs with the original variables, the screeplot and a scatterplot of the first two principal components are are presented.'
 
 Keywords: 'NPCA, dimension reduction, eigenvalues, eigenvectors, multi-dimensional, multivariate, normalization, pca, principal-components, scaling, screeplot, transformation'
 
 See also: 'SMSnpcacrime, SMSnpcageopol, SMSnpcasimu, SMSnpcathletic, SMSpcacarm, SMSpcahealth'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka, Awdesch Melzer
 
-Datafile[r]: uscrime.rda
-Datafile[m]: uscrime.dat
+Submitted:  27.02.2015
 
 Output: 'Table of principal components and plots of normalized principal components for US crime data'
 
