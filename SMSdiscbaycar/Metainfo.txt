@@ -2,21 +2,15 @@ Name of Quantlet: SMSdiscbaycar
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'Demonstrates Bayes discrimination rule for 
-               car data set which encloses different variables for the
-               three regions, the US, Europe and Japan. Applying the Bayes
-               discrimination rule, an apparent error rate (APER) of 0.2838
-               is estimated. Obviously, the Bayes discriminant rule leads
-               to better results than ML discriminant rule since it
-               gives large weights to U.S. cars which constitute more than
-               60 percent of the entire data set.'
+Description: 'Demonstrates Bayes discrimination rule for car data set which encloses different variables for the three regions, the US, Europe and Japan. Applying the Bayes discrimination rule, an apparent error rate (APER) of 0.2838 is estimated. Obviously, the Bayes discriminant rule leads to better results than ML discriminant rule since it gives large weights to U.S. cars which constitute more than 60 percent of the entire data set.'
 
 Keywords: 'Bayes rule, discriminant analysis, aper, discrimination'
 
 See also: 'SMSdiscbaycar, SMSdisccar, SMSdisfbank, SMSdisfwais'
 
-Author[r]: Michaela Marsalkova, Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Michaela Marsalkova, Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015 
 
 Datafile[r]: carc.rda
 Datafile[m]: carc.txt
