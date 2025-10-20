@@ -9,8 +9,7 @@ Keywords: Silverman, bandwidth, data visualization, density, estimation, gaussia
 
 See also: 'SMSandcurpopu, SMSboxbank6, SMSboxunemp, SMSboxunemp, SMSdenbank, SMSdenbank, SMSdrafcar, SMSdrafcar, SMSfacenorm, SMSfacenorm, SMShiscar, SMShiscar, SMShisheights, SMShisheights, SMSpcpcar, SMSpcpcar, SMSscanorm2, SMSscanorm3, SMSscanorm3, SMSscapopu, SMSscapopu'
 
-Author[r]: Kristyna Ivankova, Dedy D. Prastyo
-Author[m]: Awdesch Melzer
+Author: Kristyna Ivankova, Dedy D. Prastyo, Awdesch Melzer
 
 Submitted:  Fri, August 07 2015 by Awdesch Melzer
 
