@@ -8,8 +8,9 @@ Keywords: 'correspondence analysis, eigenvalues, singular value decomposition, c
 
 See also: 'SMScorrcarm, SMSchi2bac, SMScorrcrime, SMScorrhealth, SMScorrfood'
 
-Author[r]: Lucia Jaresova, Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Lucia Jaresova, Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: food.rda
 Datafile[m]: food.dat
