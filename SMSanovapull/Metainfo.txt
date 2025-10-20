@@ -3,40 +3,16 @@ Name of Quantlet: SMSanovapull
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'performes a linear regression and an analysis
-of variance (ANOVA) for three marketing strategies.
-A company decides to compare the effect of three marketing strategies:
-1. advertisement in local newspaper
-2. presence of sales assistant
-3. special presentation in shop windows,
-on the sales of their portfolio in 30 shops.
-The 30 shops were divided into 3 groups of 10 shops.
-The sales using the strategies 1, 2, and 3 were
-y1 = (9, 11, 10, 12, 7, 11, 12, 10, 11, 13)
-y2 = (10, 15, 11, 15, 15, 13, 7, 15, 13, 10) and
-y3 = (18, 14, 17, 9, 14, 17, 16, 14, 17, 15) respectively.
-A null hypothesis of equality of means of the three groups
-is tested. The standard approach of using ANOVA leads to
-an F-test. The alternative proposition is to use a
-linear factor model using the strategies as regression
-variables to build curve that corresponds to the alternative
-hypothesis of the ANOVA with three horizontal lines,
-each for one strategy. The F-test of testing equality of
-the coefficients to zero corresponds to the null of testing
-the marketing strategies having no effect.
-The output shows rejection of the null hypothesis.
-For more information see Exercise 3.20.'
+Description: 'performes a linear regression and an analysis of variance (ANOVA) for three marketing strategies. A company decides to compare the effect of three marketing strategies: 1. advertisement in local newspaper 2. presence of sales assistant 3. special presentation in shop windows, on the sales of their portfolio in 30 shops.
+The 30 shops were divided into 3 groups of 10 shops. The sales using the strategies 1, 2, and 3 were y1 = (9, 11, 10, 12, 7, 11, 12, 10, 11, 13) y2 = (10, 15, 11, 15, 15, 13, 7, 15, 13, 10) and y3 = (18, 14, 17, 9, 14, 17, 16, 14, 17, 15) respectively. A null hypothesis of equality of means of the three groups is tested. The standard approach of using ANOVA leads to an F-test. The alternative proposition is to use a linear factor model using the strategies as regression variables to build curve that corresponds to the alternative hypothesis of the ANOVA with three horizontal lines, each for one strategy. The F-test of testing equality of the coefficients to zero corresponds to the null of testing the marketing strategies having no effect. The output shows rejection of the null hypothesis. For more information see Exercise 3.20.'
 
-Keywords: 'regression, linear model, analysis of variance, factor-model,
-linear model, variance, F-test, F-statistic, F test, mean,
-heteroskedasticity, test, Testing'
+Keywords: 'regression, linear model, analysis of variance, factor-model, linear model, variance, F-test, F-statistic, F test, mean, heteroskedasticity, test, Testing'
 
 See also: 'SMScovbank, SMSdete2pull, SMSdeterpull, SMSlinregpull, SMSscabank45'
 
-Author[r]: Dana Chromikova
-Author[m]: Awdesch Melzer
+Author: Dana Chromikova, Awdesch Melzer
 
-Submitted: 
+Submitted:  27.02.2015
 
 Datafile[r]: pullover.rda
 Datafile[m]: pullover.dat 
