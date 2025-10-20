@@ -5,14 +5,11 @@ Published in: Multivariate Statistics: Exercises and Solutions
 
 Description: 'Produces draftsman''s plots and density contour plots for the car data. Within the scatterplots, the squares mark US cars, the triangles mark Japanese cars and the circles mark European cars. The bandwidths for the kernel density estimation of the countours are selected via Scott''s rule of thumb.'
 
-Keywords: contour, data visualization, density, graphical representation, kde, kernel, multi-dimensional, multivariate, plot, scatterplot, visualization
-
-Keywords[new]: draftsman
+Keywords: contour, data visualization, density, graphical representation, kde, kernel, multi-dimensional, multivariate, plot, scatterplot, visualization, draftsman
 
 See also: 'SMSandcurpopu, SMSboxbank6, SMSboxunemp, SMSboxunemp, SMSdenbank, SMSdenbank, SMSdrafcar, SMSdrafcar, SMSfacenorm, SMSfacenorm, SMShiscar, SMShiscar, SMShisheights, SMShisheights, SMSpcpcar, SMSpcpcar, SMSscanorm2, SMSscanorm3, SMSscanorm3, SMSscapopu, SMSscapopu'
 
-Author[r]: Kristyna Ivankova, Dedy D. Prastyo
-Author[m]: Awdesch Melzer
+Author: Kristyna Ivankova, Dedy D. Prastyo, Awdesch Melzer
 
 Submitted:  Fri, August 07 2015 by Awdesch Melzer
 
