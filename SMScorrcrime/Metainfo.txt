@@ -8,8 +8,9 @@ Keywords: 'correspondence analysis, eigenvalues, singular value decomposition, c
 
 See also: 'SMScorrcarm, SMSchi2bac, SMScorrcrime, SMScorrhealth, SMScorrfood'
 
-Author[r]: Zdenek Hlavka Awdesch Melzer
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka Awdesch Melzer, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: uscrime.rda
 Datafile[m]: uscrime.dat
