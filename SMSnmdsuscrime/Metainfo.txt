@@ -8,8 +8,9 @@ Keywords: 'multidimensional scaling, mds, nonmetric, distance, Euclidean, correl
 
 See also: 'SMSmdsbank, SMSnmdsathlesub, SMSnmdsathletic, SMSnmdscarm, SMSnmdsuscrime, SMSnmdsushealth'
 
-Author[r]: Petra Cernayova, Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Petra Cernayova, Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: uscrime.rda
 Datafile[m]: uscrime.dat
