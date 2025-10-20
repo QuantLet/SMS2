@@ -8,6 +8,6 @@ Keywords: 'Covariance test, hypothesis-testing, Testing'
 
 See also: 'SMSlinregbank2, SMSlinregvocab, SMSprofil, SMSprofplasma, SMStestcov4i, SMStestcovwais, SMStestsim, SMStestuscomp'
 
-Author[r]:   Zdenek Hlavka, Awdesch Melzer
+Author:   Zdenek Hlavka, Awdesch Melzer
 
 Submitted: 27.02.2015
