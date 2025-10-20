@@ -9,8 +9,7 @@ Keywords: data visualization, empirical, graphical representation, histogram, pl
 
 See also: 'SMSandcurpopu, SMSboxbank6, SMSboxunemp, SMSboxunemp, SMSdenbank, SMSdenbank, SMSdrafcar, SMSdrafcar, SMSfacenorm, SMSfacenorm, SMShiscar, SMShiscar, SMShisheights, SMShisheights, SMSpcpcar, SMSpcpcar, SMSscanorm2, SMSscanorm3, SMSscanorm3, SMSscapopu, SMSscapopu'
 
-Author[r]: Wolfgang K. Härdle, Zdenek Hlávka, Dedy D. Prastyo
-Author[m]: Wolfgang K. Härdle, Zdenek Hlávka, Dedy D. Prastyo
+Author: Wolfgang K. Härdle, Zdenek Hlávka, Dedy D. Prastyo
 
 Submitted:  Fri, August 07 2015 by Awdesch Melzer
 
