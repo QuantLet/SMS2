@@ -9,8 +9,9 @@ Keywords: analysis, dimension reduction, eigenvalues, eigenvectors, empirical, f
 
 See also: 'SMSdecotime, SMSdecobank, SMSdecofood'
 
-Author[r]: Awdesch Melzer
-Author[m]: Awdesch Melzer
+Author: Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: bank2.rda
 Datafile[m]: bank2.dat
