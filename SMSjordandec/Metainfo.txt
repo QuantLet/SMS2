@@ -9,5 +9,6 @@ Keywords: spectral decomposition, eigenvalues, eigenvectors, decomposition, eige
 
 See also: 'SMSellipse, SMSjordandec'
 
-Author[r]: Dana Chromikova
-Author[m]: Dana Chromikova, Awdesch Melzer
+Author: Dana Chromikova, Dana Chromikova, Awdesch Melzer
+
+Submitted:  27.02.2015
