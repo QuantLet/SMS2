@@ -8,8 +8,9 @@ Keywords: 'linear model, linear regression, least squares, R-squared, summary, F
 
 See also: 'SMSlassocar, SMSlassologit, SMSlinregcar, SMSlinregcar2, SMSlogitbankrupt'
 
-Author[r]:   Zdenek Hlavka
-Author[m]:   Janek Berger
+Author:   Zdenek Hlavka, Janek Berger
+
+Submitted:  27.02.2015
 
 Datafile[r]: carc.rda
 Datafile[m]: carc.txt
