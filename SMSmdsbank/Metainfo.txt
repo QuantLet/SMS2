@@ -8,8 +8,9 @@ Keywords: 'multidimensional scaling, mds, metric, distance, Euclidean, correlati
 
 See also: 'SMSmdsbank, SMSnmdsathlesub, SMSnmdsathletic, SMSnmdscarm, SMSnmdsuscrime, SMSnmdsushealth'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: bank2.rda
 Datafile[m]: bank2.dat
