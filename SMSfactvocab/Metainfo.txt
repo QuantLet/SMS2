@@ -2,26 +2,15 @@ Name of Quantlet: SMSfactvocab
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'calculates factor scores for the vocabulary 
-               data set, which contains the test scores of 64 pupils from
-               the eigth through eleventh grade levels. For each pupil we
-               have one test score per grade which leads to a
-               4-dimensional data set. However, after perfoming LR test,
-               we observe, that H0 k=1 factor cannot be rejected at a
-               p-value of 0.457. Estimated factor loadings, communalities
-               and specific variances are presented in a table. A plot of
-               factor scores for the pupils is shown. The values on the 
-               vertical axis are randomly chosen so that the plotted
-               numbers are readable. The best values were achieved in
-               observations 36 and 38 whereas the 5th observation seems
-               to be extremely bad.'
+Description: 'calculates factor scores for the vocabulary data set, which contains the test scores of 64 pupils from the eigth through eleventh grade levels. For each pupil we have one test score per grade which leads to a 4-dimensional data set. However, after perfoming LR test, we observe, that H0 k=1 factor cannot be rejected at a p-value of 0.457. Estimated factor loadings, communalities and specific variances are presented in a table. A plot of factor scores for the pupils is shown. The values on the  vertical axis are randomly chosen so that the plotted numbers are readable. The best values were achieved in observations 36 and 38 whereas the 5th observation seems to be extremely bad.'
 
 Keywords: 'varimax, rotation, factor analysis, factor scores, factor loadings, communalities, specific variances, factor model'
 
 See also: 'SMSfactbank, SMSfactfood, SMSfacthletic, SMSfactsigma, SMSfactuscrime, SMSfactushealth, SMSfactvocab'
 
-Author[r]: Petra Cernayova, Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Petra Cernayova, Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: vocabulary.rda
 Datafile[m]: vocabulary.dat
