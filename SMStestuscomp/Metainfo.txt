@@ -8,30 +8,6 @@ Keywords: 'Hotelling test, multivariate mean test, Testing, hypothesis-testing'
 
 See also: 'SMSlinregbank2, SMSlinregvocab, SMSprofil, SMSprofplasma, SMStestcov, SMStestcovwais, SMStestsim, SMStestuscomp'
 
-Author[r]:   Zdenek Hlavka
-Author[m]:   Awdesch Melzer
+Author:   Zdenek Hlavka, Awdesch Melzer
 
-Submitted:  
-
-Datafile[r]: uscomp.rda
-Datafile[m]: uscomp.txt
-
-Example: 'hotelling test results
- test statistic
-     2.1526
- 
- degrees of freedom
-      6    18
- 
- p-value
-     0.0970
- 
- confidence interval for each variable
-        -7639        7193
-        -9613        4924
-        -2924        2103
-         -295         536
-         -527         791
-         -102          20'
-
-Subfunctions[m]: hotellingstat
+Submitted:  27.02.2015
