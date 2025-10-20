@@ -8,8 +8,9 @@ Keywords: 'CAPM, linear model'
 
 See also: 'SMScapmnyse, SMSportfol'
 
-Author[r]: Kristyna Sionova
-Author[m]: Awdesch Melzer
+Author: Kristyna Sionova, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: nyse.rda
 Datafile[m]: nyse.dat
