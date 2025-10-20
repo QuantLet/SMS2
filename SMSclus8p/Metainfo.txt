@@ -8,8 +8,8 @@ Keywords: 'Ward algorithm, cluster-analysis, complete linkage, dendrogram, dista
 
 See also: 'MVAQnetClusKmeans, MVAQnetClusKmeansB, MVAQnetClusKmeansT, MVAcarsim, MVAclus8p, MVAclusfood, MVAclususcrime, MVAdrugsim, MVAspecclust, SMScarsim, SMSclus8km, SMSclus8pa, SMSclus8pc, SMSclus8pd, SMSclus8pmst, SMSclus8pmst2, SMSclus8psc, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscereal, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth, SMSclushealth05, SMScluskmcereal, SMScluskmhealth'
 
-Author[r]: Zdenek Hlavka, Awdesch Melzer
-Author[m]: Awdesch Melzer
-Author[Python]: 'Matthias Fengler, Liudmila Gorkun-Voevoda'
+Author: Zdenek Hlavka, Awdesch Melzer, Matthias Fengler, Liudmila Gorkun-Voevoda
+
+Submitted:  27.02.2015
 
 Example: 'ward algorithm and dendrogram and complete linkage algorithm and dendrogram'
