@@ -8,8 +8,9 @@ Keywords: 'cluster-analysis, distance, manhattan metric, city block metric, mann
 
 See also: 'MVAQnetClusKmeans, MVAQnetClusKmeansB, MVAQnetClusKmeansT, MVAcarsim, MVAclus8p, MVAclusfood, MVAclususcrime, MVAdrugsim, MVAspecclust, SMScarsim, SMSclus8km, SMSclus8pa, SMSclus8pc, SMSclus8pd, SMSclus8pmst, SMSclus8pmst2, SMSclus8psc, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscereal, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth, SMSclushealth05, SMScluskmcereal, SMScluskmhealth'
 
-Author[r]: Kristyna Sionova
-Author[m]: Awdesch Melzer
+Author: Kristyna Sionova, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: bank2.rda
 Datafile[m]: bank2.dat
