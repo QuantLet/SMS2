@@ -4,15 +4,10 @@ Published in: Multivariate Statistics: Exercises and Solutions Series
 
 Description: 'Plots an example of population profiles to compare the effect of a treatment'
 
-Keywords: 'profile, plot, data visualization, visualization, graphical representation'
-
-Keywords[new]: 'treatment'
+Keywords: 'profile, plot, data visualization, visualization, graphical representation', 'treatment'
 
 See also: 'SMSlinregbank2, SMSlinregvocab, SMSprofil, SMSprofplasma, SMStestcov, SMStestcov4i, SMStestcovwais, SMStestsim, SMStestuscomp'
 
-Author[r]:   Barbora Lebduskova
-Author[m]:   Awdesch Melzer
+Author:   Barbora Lebduskova, Awdesch Melzer
 
-Example[r]: 'Plot of a treatment profile.'
-
-Example[m]: 'Plot of a treatment profile.'
+Submitted:  27.02.2015
