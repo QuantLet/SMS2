@@ -8,22 +8,6 @@ Keywords: 'Covariance test, hypothesis-testing, Testing'
 
 See also: 'SMSlinregbank2, SMSlinregvocab, SMSprofil, SMSprofplasma, SMStestcov4i, SMStestcovwais, SMStestsim, SMStestuscomp'
 
-Author[r]:   Zdenek Hlavka
-Author[m]:   Awdesch Melzer
+Author[r]:   Zdenek Hlavka, Awdesch Melzer
 
-Example: 'Test statistic and critical value      
-     Part A
-     6.6945
- 
-    18.3070
- 
-     Part B
-    21.6933
- 
-    18.3070
- 
-     Part C
-    13.1754
- 
-    18.3070'
-
+Submitted: 27.02.2015
