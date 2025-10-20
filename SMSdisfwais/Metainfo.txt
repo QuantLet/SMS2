@@ -8,8 +8,9 @@ Keywords: 'Fisher LDA, discriminant analysis, aper, discrimination, Fisher, LDA,
 
 See also: 'SMSdiscbaycar, SMSdisccar, SMSdisfbank, SMSdisfwais'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: wais.rda
 Datafile[m]: wais.dat
