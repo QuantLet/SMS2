@@ -9,12 +9,6 @@ Keywords: PCP, data visualization, graphical representation, parallel coordinate
 
 See also: 'SMSandcurpopu, SMSboxbank6, SMSboxunemp, SMSboxunemp, SMSdenbank, SMSdenbank, SMSdrafcar, SMSdrafcar, SMSfacenorm, SMSfacenorm, SMShiscar, SMShiscar, SMShisheights, SMShisheights, SMSpcpcar, SMSpcpcar, SMSscanorm2, SMSscanorm3, SMSscanorm3, SMSscapopu, SMSscapopu'
 
-Author[r]: Wolfgang K. Härdle, Zdenek Hlávka, Dedy D. Prastyo
-Author[m]: Wolfgang K. Härdle, Ji Cao, Song Song, Vladimir Georgescu, Awdesch Melzer
+Author: Wolfgang K. Härdle, Zdenek Hlávka, Dedy D. Prastyo, Ji Cao, Song Song, Vladimir Georgescu, Awdesch Melzer
 
 Submitted:  Fri, August 07 2015 by Awdesch Melzer
-
-Datafile[r]: carc.rda
-Datafile[m]: carc.txt
-
-Example: 'Parallel coordinates plot for car data.'
