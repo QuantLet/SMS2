@@ -3,22 +3,15 @@ Name of Quantlet: SMSlinregpull
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'Computes a linear regression of sales (X1) 
-on price (X2) from the pullovers data set 
-(pullover.rda). It checks for outliers using a rule on
-standardized residuals and computes the same model for
-the subset of the pullover data without outliers. Both
-regression lines are plotted in the same scatterplot,
-the outliers are marked as red triangles.'
+Description: 'Computes a linear regression of sales (X1) on price (X2) from the pullovers data set (pullover.rda). It checks for outliers using a rule on standardized residuals and computes the same model for the subset of the pullover data without outliers. Both regression lines are plotted in the same scatterplot, the outliers are marked as red triangles.'
 
 Keywords: 'linear, linear model, linear regression, least-squares, R-squared,regression, F test, F-statistic, F-test, test, summary, statistics, boxplot, five number summary, plot, data visualization, graphical representation, visualization, scatterplot'
 
 See also: 'SMSanovapull, SMSdete2pull, SMSdeterpull, SMSlinregpull, SMSscabank45, SMScovbank'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Norman Duckwitz
+Author: Zdenek Hlavka, Norman Duckwitz
 
-Submitted: 
+Submitted:  27.02.2015
 
 Datafile[r]: pullover.rda
 Datafile[m]: pullover.dat 
