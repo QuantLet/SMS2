@@ -3,21 +3,14 @@ Name of Quantlet: SMSellipse
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'computes ellipsoids for varying rho and d. rho
-is the direction and correlation parameter lying between -1 and 1. d
-is the radius of the ellipsoids. Given a covariance 
-structure Sigma, depending on rho, the ellipse function
-calculates the cholesky decomposition of Sigma = Q''*Q,
-resulting in a upper triangular matrix Q, which in turn
-is used for the transformation of the unit circle with
-respect to the direction. The shape of the ellipsoids
-is in accordance with the correlation parameter rho.'
+Description: 'computes ellipsoids for varying rho and d. rho is the direction and correlation parameter lying between -1 and 1. d is the radius of the ellipsoids. Given a covariance structure Sigma, depending on rho, the ellipse function calculates the cholesky decomposition of Sigma = Q''*Q, resulting in a upper triangular matrix Q, which in turn is used for the transformation of the unit circle with respect to the direction. The shape of the ellipsoids is in accordance with the correlation parameter rho.'
 
 Keywords: ellipse, correlation, plot, covariance matrix, Cholesky decomposition
 
 See also: 'SMSellipse, SMSjordandec'
 
-Author[r]: Monika Jakubcova
-Author[m]: Awdesch Melzer, Dedy Dwi Prastyo
+Author: Monika Jakubcova, Awdesch Melzer, Dedy Dwi Prastyo
+
+Submitted:  27.02.2015
 
 Example: 'Ellipsoids for rho = (0.5, -0.75, 0, 0.25) and radius = (4, 4, 4, 1) are plotted.'
