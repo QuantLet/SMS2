@@ -9,8 +9,7 @@ Keywords: boxplot, data visualization, five number summary, graphical representa
 
 See also: 'SMSandcurpopu, SMSboxbank6, SMSboxunemp, SMSboxunemp, SMSdenbank, SMSdenbank, SMSdrafcar, SMSdrafcar, SMSfacenorm, SMSfacenorm, SMShiscar, SMShiscar, SMShisheights, SMShisheights, SMSpcpcar, SMSpcpcar, SMSscanorm2, SMSscanorm3, SMSscanorm3, SMSscapopu, SMSscapopu'
 
-Author[r]: Tomas Marada
-Author[m]: Awdesch Melzer
+Author: Tomas Marada, Awdesch Melzer
 
 Submitted:  Fri, August 07 2015 by Awdesch Melzer
 
