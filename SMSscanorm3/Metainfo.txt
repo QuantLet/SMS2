@@ -9,8 +9,7 @@ Keywords: '3D, data visualization, graphical representation, multivariate, multi
 
 See also: 'SMSandcurpopu, SMSboxbank6, SMSboxunemp, SMSboxunemp, SMSdenbank, SMSdenbank, SMSdrafcar, SMSdrafcar, SMSfacenorm, SMSfacenorm, SMShiscar, SMShiscar, SMShisheights, SMShisheights, SMSpcpcar, SMSpcpcar, SMSscanorm2, SMSscanorm3, SMSscanorm3, SMSscapopu, SMSscapopu'
 
-Author[r]: Alena Babiakova
-Author[m]: Awdesch Melzer
+Author: Alena Babiakova, Awdesch Melzer
 
 Submitted:  Fri, August 07 2015 by Awdesch Melzer
 
