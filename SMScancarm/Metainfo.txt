@@ -8,8 +8,9 @@ Keywords: 'canonical correlation, covariance, eigenvalue, eigenvector, singular 
 
 See also: 'SMScancarm, SMScancarm1, SMScancarm2'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: carmean2.rda
 Datafile[m]: carmean2.dat
