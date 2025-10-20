@@ -3,22 +3,15 @@ Name of Quantlet: SMScovbank
 
 Published in: 'Multivariate Statistics: Exercises and Solutions'
 
-Description: 'calculates the covariance matrix (and eigevalues)
-of the Swiss Bank (bank2.dat) dataset and the variance of
-the counterfeit bank notes (observations 101-200) after they 
-were lineary transformed by a vector a = (1, 1, 1, 1, 1, 1)'
+Description: 'calculates the covariance matrix (and eigevalues) of the Swiss Bank (bank2.dat) dataset and the variance of the counterfeit bank notes (observations 101-200) after they were lineary transformed by a vector a = (1, 1, 1, 1, 1, 1)'
 
-Keywords: 'covariance, eigenvalues, spectral decomposition,
-multivariate, multi dimensional, variance, transformation,
-decomposition, eigenvalue decomposition, Covariance'
+Keywords: 'covariance, eigenvalues, spectral decomposition, multivariate, multi dimensional, variance, transformation, decomposition, eigenvalue decomposition, Covariance'
 
-See also: 'SMSanovapull, SMScovbank, SMSdete2pull, SMSdeterpull,
-SMSlinregpull, SMSscabank45'
+See also: 'SMSanovapull, SMScovbank, SMSdete2pull, SMSdeterpull, SMSlinregpull, SMSscabank45'
 
-Author[r]: Dana Chromikova
-Author[m]: Awdesch Melzer
+Author: Dana Chromikova, Awdesch Melzer
 
-Submitted: 
+Submitted:  27.02.2015
 
 Datafile[r]: bank2.rda
 Datafile[m]: bank2.dat 
