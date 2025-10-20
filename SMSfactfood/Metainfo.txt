@@ -4,14 +4,13 @@ Published in: Multivariate Statistics: Exercises and Solutions
 
 Description: 'performs a factor analysis on the French food data using Principal Factors Method (PFM), iterated PFM, with Varimax rotation algorithm and manual rotation'
 
-Keywords: 'Factor Analysis, standardization, Principal Factors Method,
-Iterated Principal Factors Method, Rotation, Varimax,
-factor-loadings, iPFM, PFM, specific variance, factor analysis, factor scores'
+Keywords: 'Factor Analysis, standardization, Principal Factors Method, Iterated Principal Factors Method, Rotation, Varimax, factor-loadings, iPFM, PFM, specific variance, factor analysis, factor scores'
 
 See also: 'SMSfactbank, SMSfactfood, SMSfacthletic, SMSfactsigma, SMSfactuscrime, SMSfactushealth, SMSfactvocab'
 
-Author[r]: Monika Jakubcova, Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Monika Jakubcova, Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: food.rda
 Datafile[m]: food.dat
