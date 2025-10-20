@@ -2,32 +2,13 @@ Name of Quantlet: SMScluscomp
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'performs cluster analysis for US companies. The
-               six dimentional data set contrains information on the
-               assets, sales, market value, profits, cash flow and number
-               of employees of 79 US companies. The companies are
-               classified according to their type: Communication, Energy,
-               Finance, Hi-Tech, Manufacturing, Medical, Other, Retail,
-               and Transportation.
-               The rescaling is in this case necessary since otherwise we
-               observe most of the points concentrated in the lower left 
-               corner with the two largest companies (IBM and General 
-               Electric) dominating the plot.
-               On the transformed data we perform a principal component
-               analysis and a cluster analysis employing L1-norm
-               (City-Block) and Ward linkage algorithm. Plots of principal
-               components and the dendrogram are presented. After extraction
-               of 5 clusters, the principal components with the five
-               clusters (denoted by different symbols) and nine sectors
-               (denoted by different colours) are shown.
-               The plot slightly differs from R due to variation in algorithms.'
+Description: 'performs cluster analysis for US companies. The six dimentional data set contrains information on the assets, sales, market value, profits, cash flow and number of employees of 79 US companies. The companies are classified according to their type: Communication, Energy, Finance, Hi-Tech, Manufacturing, Medical, Other, Retail, and Transportation. The rescaling is in this case necessary since otherwise we observe most of the points concentrated in the lower left corner with the two largest companies (IBM and General Electric) dominating the plot. On the transformed data we perform a principal component analysis and a cluster analysis employing L1-norm (City-Block) and Ward linkage algorithm. Plots of principal components and the dendrogram are presented. After extraction of 5 clusters, the principal components with the five clusters (denoted by different symbols) and nine sectors (denoted by different colours) are shown. The plot slightly differs from R due to variation in algorithms.'
 
 Keywords: 'cluster-analysis, Ward algorithm, distance, manhattan metric, city block metric, mannheim metric, L1-norm, linkage, ward, ward algorithm, dendrogram, principal components, PCA, centering, pseudo random numbers, sampling'
 
 See also: 'MVAQnetClusKmeans, MVAQnetClusKmeansB, MVAQnetClusKmeansT, MVAcarsim, MVAclus8p, MVAclusfood, MVAclususcrime, MVAdrugsim, MVAspecclust, SMScarsim, SMSclus8km, SMSclus8pa, SMSclus8pc, SMSclus8pd, SMSclus8pmst, SMSclus8pmst2, SMSclus8psc, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscereal, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth, SMSclushealth05, SMScluskmcereal, SMScluskmhealth'
 
-Author[r]: Jakub Pecanka, Awdesch Melzer
-Author[m]: Awdesch Melzer
+Author: Jakub Pecanka, Awdesch Melzer, Awdesch Melzer
 
 Datafile[r]: uscomp.rda
 Datafile[m]: uscomp.dat
