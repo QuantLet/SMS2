@@ -8,8 +8,9 @@ Keywords: 'NPCA, dimension reduction, multi-dimensional, multivariate, normaliza
 
 See also: 'SMSnpcacrime, SMSnpcageopol, SMSnpcasimu, SMSnpcathletic, SMSpcacarm, SMSpcahealth'
 
-Author[r]: Alena Babiakova
-Author[m]: Awdesch Melzer
+Author: Alena Babiakova, Awdesch Melzer
+
+Submitted:  27.02.2015 
 
 Output: 'Eigenvalues, eigenvectors, screeplot, the first two principal components and the correlation of the first two PCs with the original variables are shown as results.'
 
