@@ -8,8 +8,9 @@ Keywords: 'testing, chisquare, asymptotic chisquare test, independence, test'
 
 See also: 'SMScorrcarm, SMSchi2bac, SMScorrcrime, SMScorrhealth, SMScorrfood'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: bac.rda
 Datafile[m]: bac.dat
