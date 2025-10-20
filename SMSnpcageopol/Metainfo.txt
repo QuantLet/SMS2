@@ -8,8 +8,9 @@ Keywords: 'NPCA, dimension reduction, eigenvalues, eigenvectors, multi-dimension
 
 See also: 'SMSnpcasimu, SMSnpcasimu, SMSnpcathletic, SMSnpcathletic, SMSpcacarm, SMSpcacarm, SMSpcahealth, SMSpcahealth'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka,Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: geopol.rda
 Datafile[m]: geopol.dat
