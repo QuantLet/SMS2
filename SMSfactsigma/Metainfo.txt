@@ -4,14 +4,13 @@ Published in: Multivariate Statistics: Exercises and Solutions
 
 Description: 'Computing the orthogonal factor model via PCM and PFM (Exercise 10.5)'
 
-Keywords: 'Factor Analysis, standardization, Principal Factors Method,
-Iterated Principal Factors Method, Rotation, Varimax,
-factor-loadings, iPFM, PFM, specific variance, factor analysis, factor scores, factor model'
+Keywords: 'Factor Analysis, standardization, Principal Factors Method, Iterated Principal Factors Method, Rotation, Varimax, factor-loadings, iPFM, PFM, specific variance, factor analysis, factor scores, factor model'
 
 See also: 'SMSfactbank, SMSfactfood, SMSfacthletic, SMSfactsigma, SMSfactuscrime, SMSfactushealth, SMSfactvocab'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Zdenek Hlavka, Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: athletic.rda
 Datafile[m]: athletic.mat
