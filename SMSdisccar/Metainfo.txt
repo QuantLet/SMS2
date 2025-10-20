@@ -2,23 +2,15 @@ Name of Quantlet: SMSdisccar
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: 'Demonstrates the ML discrimination rule for 
-               car data set which encloses different variables for the
-               three regions, the US, Europe and Japan. The apparent error
-               rate (APER), defined as the percentage of misclassified
-               observations is (11 + 8 + 2 + 2 + 3 + 5)/79 = 41.89 per cent.
-               It seems that the rule is not particularly good since we 
-               have less than 60 chance of correct classification. 
-               Moreover, this estimate is based on the observations which 
-               were used to construct the discriminant rule and it might
-               be way too optimistic.'
+Description: 'Demonstrates the ML discrimination rule for car data set which encloses different variables for the three regions, the US, Europe and Japan. The apparent error rate (APER), defined as the percentage of misclassified observations is (11 + 8 + 2 + 2 + 3 + 5)/79 = 41.89 per cent. It seems that the rule is not particularly good since we have less than 60 chance of correct classification. Moreover, this estimate is based on the observations which were used to construct the discriminant rule and it might be way too optimistic.'
 
 Keywords: 'ML rule, discriminant analysis, aper, discrimination'
 
 See also: 'SMSdiscbaycar, SMSdisccar, SMSdisfbank, SMSdisfwais'
 
-Author[r]: Michaela Marsalkova, Zdenek Hlavka
-Author[m]: Awdesch Melzer
+Author: Michaela Marsalkova, Zdenek Hlavka,Awdesch Melzer
+
+Submitted:  27.02.2015
 
 Datafile[r]: carc.rda
 Datafile[m]: carc.txt
