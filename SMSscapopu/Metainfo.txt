@@ -9,12 +9,6 @@ Keywords: data visualization, graphical representation, plot, scatterplot, visua
 
 See also: 'SMSandcurpopu, SMSboxbank6, SMSboxunemp, SMSboxunemp, SMSdenbank, SMSdenbank, SMSdrafcar, SMSdrafcar, SMSfacenorm, SMSfacenorm, SMShiscar, SMShiscar, SMShisheights, SMShisheights, SMSpcpcar, SMSpcpcar, SMSscanorm2, SMSscanorm3, SMSscanorm3, SMSscapopu, SMSscapopu'
 
-Author[r]: Jakub Petrasek
-Author[m]: Awdesch Melzer
+Author: Jakub Petrasek, Awdesch Melzer
 
 Submitted:  Fri, August 07 2015 by Awdesch Melzer
-
-Datafile[r]: annualpopu.rda
-Datafile[m]: annualpopu.dat
-
-Example: 'scatterplot from the population dataset'
