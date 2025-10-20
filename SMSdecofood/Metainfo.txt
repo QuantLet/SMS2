@@ -9,8 +9,9 @@ Keywords: analysis, dimension reduction, eigenvalues, eigenvectors, empirical, f
 
 See also: 'SMSdecotime, SMSdecobank, SMSdecofood'
 
-Author[r]: Zdenek Hlavka
-Author[m]: Norman Duckwitz
+Author: Zdenek Hlavka, Norman Duckwitz
+
+Submitted:  27.02.2015
 
 Datafile[r]: food.rda
 Datafile[m]: food.csv
