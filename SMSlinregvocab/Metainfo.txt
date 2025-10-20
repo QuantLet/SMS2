@@ -2,19 +2,15 @@ Name of Quantlet: SMSlinregvocab
 
 Published in: Multivariate Statistics: Exercises and Solutions Series 
 
-Description: 'computes a linear regression of vocab. score in grade 11 on vocabulary grades in previous years for the vocabulary data.
-Linear Regressions:
-grade11 = const + grade8 + grade9 + grade10 + epsilon
-grade11 = const + grade9 + grade10 + epsilon'
+Description: 'computes a linear regression of vocab. score in grade 11 on vocabulary grades in previous years for the vocabulary data. Linear Regressions: 1)grade11 = const + grade8 + grade9 + grade10 + epsilon 2)grade11 = const + grade9 + grade10 + epsilon'
 
 Keywords: 'linear model, linear regression, least squares, R-squared, gls'
 
 See also: 'SMSlinregbank2, SMSlinregvocab, SMSprofil, SMSprofplasma, SMStestcov, SMStestcov4i, SMStestcovwais, SMStestsim, SMStestuscomp'
 
-Author[r]:   Jakub Pecanka
-Author[m]:   Philipp Jackmuth
+Author:   Jakub Pecanka, Philipp Jackmuth
 
-Submitted:  
+Submitted:  27.02.2015
 
 Datafile[r]: vocabulary.rda
 Datafile[m]: vocabulary.dat
