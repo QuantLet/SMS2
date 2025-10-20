@@ -8,15 +8,7 @@ Keywords: 'profile, hypothesis-testing, Testing'
 
 See also: 'SMSanovapull, SMSdete2pull, SMSdeterpull, SMSlinregpull, SMSscabank45, SMScovbank'
 
-Author[r]:   Zdenek Hlavka
-Author[m]:   Awdesch Melzer
+Author[r]:   Zdenek Hlavka, Awdesch Melzer
 
-Submitted:  
+Submitted:  27.02.2015 
 
-Output: Test of different hypotheses
-
-Datafile[r]: plasma.rda
-Datafile[m]: plasma.dat
-
-Example[r]: 'profile analysis of citrate concentrations in plasma'
-Example[m]: 'profile analysis of citrate concentrations in plasma'
