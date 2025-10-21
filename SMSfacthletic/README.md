@@ -1,0 +1,44 @@
+<div style="margin: 0; padding: 0; text-align: center; border: none;">
+<a href="https://quantlet.com" target="_blank" style="text-decoration: none; border: none;">
+<img src="https://github.com/StefanGam/test-repo/blob/main/quantlet_design.png?raw=true" alt="Header Image" width="100%" style="margin: 0; padding: 0; display: block; border: none;" />
+</a>
+</div>
+
+```
+Name of Quantlet: SMSfacthletic
+
+Published in: Multivariate Statistics: Exercises and Solutions
+
+Description: performs a factor analysis of athletic records data set (athletic.mat)  which contains national athletic records of 55 countries in eight disciplines (100m, 200m, 400m, 800m, 1500m, 5km, 10km and marathon) and estimates factor scores. A table of estimated factor loadings, communalities and specific variances as well as plots of factors and factor scores are presented. With p-value 0.363 for the LR test on k=3 factors we cannot reject the null hypothesis of 3 factors to be included. The communalities and specific variances show that three factors explain very well all of the original variables up to the record in 200m. The first factor is most strongly related to times achieved in longer distances, the second factor is positively related mainly to the records in middle distances and 100m, and the third factor has positive relationship to the records in 100m and 200m. The best times on long distances are on average achieved by Portugal, New Zealand, Ireland, Norway, and Kenya. On 100m and 400m, 1500m, the best countries are Dominican Republic, USA, Bermuda, Great Britain, and Thailand. The estimated factor scores f3 suggest that West Samoa, Italy, Columbia, Singapore, and USSR possess the best sprinters. It is also interesting to notice that some of the countries which have some very good factor scores, may have, at the same time, very bad some other factor scores. See, for example, Dominican Republic, West Samoa, Netherlands, Thailand, or Kenya.
+
+Keywords: Factor Analysis, standardization, Principal Factors Method, Iterated Principal Factors Method, Rotation, Varimax, factor-loadings, iPFM, PFM, specific variance, factor analysis, factor scores
+
+See also: SMSfactbank, SMSfactfood, SMSfacthletic, SMSfactsigma, SMSfactuscrime, SMSfactushealth, SMSfactvocab
+
+Author: Zdenek Hlavka, Awdesch Melzer
+
+Submitted: 27.02.2015
+
+Datafile[r]: athletic.rda
+
+Datafile[m]: athletic.mat
+
+Example: Plots of the first couple of factors against each other
+
+```
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/SMS2/master/SMSfacthletic/SMSfacthletic1_m.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/SMS2/master/SMSfacthletic/SMSfacthletic1_r.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/SMS2/master/SMSfacthletic/SMSfacthletic2_m.png" alt="Image" />
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/QuantLet/SMS2/master/SMSfacthletic/SMSfacthletic2_r.png" alt="Image" />
+</div>
+
