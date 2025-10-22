@@ -8,7 +8,7 @@ Keywords: 'profile, hypothesis-testing, Testing'
 
 See also: 'SMSanovapull, SMSdete2pull, SMSdeterpull, SMSlinregpull, SMSscabank45, SMScovbank'
 
-Author[r]:   Zdenek Hlavka, Awdesch Melzer
+Author:   Zdenek Hlavka, Awdesch Melzer
 
 Submitted:  27.02.2015 
 
