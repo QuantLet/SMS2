@@ -11,21 +11,13 @@ Published in: Multivariate Statistics: Exercises and Solutions
 
 Description: computes the optimal portfolio weights with monthly returns and the equally weighted portfolio
 
-Keywords: CAPM, portfolio, optimization, variance
-
-Keywords[new]: variance efficient portfolio, equally weighted portfolio
+Keywords: CAPM, portfolio, optimization, variance', 'variance efficient portfolio, equally weighted portfolio
 
 See also: SMScapmnyse, SMSportfol
 
-Author[r]: Zdenek Hlavka
+Author: Zdenek Hlavka, Awdesch Melzer
 
-Author[m]: Awdesch Melzer
-
-Datafile[r]: nyse.rda
-
-Datafile[m]: nyse.dat
-
-Example: the optimal portfolio weights with monthly returns
+Submitted: 30.02.2015
 
 ```
 <div align="center">
