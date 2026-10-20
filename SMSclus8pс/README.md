@@ -9,11 +9,11 @@ Name of Quantlet: SMSclus8pc
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: Employs the centroid linkage using squared Euclidean distance
+Description: Employs the centroid linkage using squared Euclidean distance matrices to perform a cluster analysis on an 8 points example
 
 Keywords: cluster-analysis, dendrogram, euclidean, distance, linkage
 
-See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pd,
+See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Awdesch Melzer
 
