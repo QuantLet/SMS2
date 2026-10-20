@@ -9,11 +9,11 @@ Name of Quantlet: SMScluscereal
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: Performs a cluster analysis for the US cereal data from the R-package MASS.
+Description: Performs a cluster analysis for the US cereal data from the R-package MASS. On the transformed data will be performed a principal component analysis and a cluster analysis employing Euclidean distance with the Ward linkage algorithm. Plots of principal components and the dendrogram are presented. After extraction of 3 clusters, the principal components with the 3 clusters (denoted by different colours) are shown
 
 Keywords: cluster-analysis, dendrogram, pca, principal-components, plot, graphical representation, Ward algorithm, euclidean, distance
 
-See also: MVAclus8p, MVAclusbank, MVAclusbh, MVAclusfood, MVAclususcrime, MVAdrugsim,
+See also: MVAclus8p, MVAclusbank, MVAclusbh, MVAclusfood, MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth, SMScluskmcereal
 
 Author: Simon Trimborn, Awdesch Melzer
 
@@ -22,8 +22,8 @@ Author[Python]: Raul Cristian Bag
 Submitted: Fri, August 22 2014 by Awdesch Melzer
 
 Example: 
-- 'principal components of the clusters
-- 'ward dendrogram
+- principal components of the clusters
+- ward dendrogram
 
 ```
 <div align="center">
