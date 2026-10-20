@@ -13,7 +13,7 @@ Description: Plots an 8 points example for minimum spanning trees (MST)
 
 Keywords: cluster-analysis, plot, graphical representation, distance, euclidean
 
-See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pd,
+See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Elisabeth Bommes, Awdesch Melzer
 
