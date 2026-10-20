@@ -9,13 +9,13 @@ Name of Quantlet: SMScarsim
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: computes the Jaccard, simple matching and Tanimoto proximity coefficients
+Description: computes the Jaccard, simple matching and Tanimoto proximity coefficients for binary car data
 
 Keywords: cluster-analysis, distance, proximity
 
 Keywords[new]: Jaccard proximity coefficient, Tanimoto proximity coefficient, simple matching coefficient
 
-See also: MVAclus8p, MVAclusbank, MVAclusbh, MVAclusfood, MVAclususcrime, MVAdrugsim,
+See also: MVAclus8p, MVAclusbank, MVAclusbh, MVAclusfood, MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Awdesch Melzer
 
@@ -29,6 +29,6 @@ Input: Matrix enclosing car marks: Economy, Service, Non depreciation of value, 
 
 Output: Jaccard, simple matching and Tanimoto proximity coefficients
 
-Example: Result: y
+Example: Result: y [,1] [,2] [,3] [,4] [,5] [,6] [,7] [,8] [1,] 0 1 1 0 1 1 0 0 [2,] 1 0 0 1 0 0 1 1 [3,] 0 0 1 0 1 0 1 0 sim(y,method="jaccard") # jaccard 1 2 2 0.0000000 3 0.4000000 0.1666667 sim(y,method="simplematching") # simple matching 1 2 2 0.000 3 0.625 0.375 sim(y,method="roger") # tanimoto 1 2 2 0.0000000 3 0.4545455 0.2307692
 
 ```
