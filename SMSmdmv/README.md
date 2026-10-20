@@ -9,7 +9,7 @@ Name of Quantlet: SMSmdmv
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: Computes and plots the values for two bivariate normally distributed
+Description: Computes and plots the values for two bivariate normally distributed random variables with a specified mean and covariance matrix.
 
 Keywords: bivariate, multivariate, multivariate normal, normal, plot, graphical representation
 
@@ -18,18 +18,18 @@ Author: Simon Trimborn
 Submitted: Fri, August 22 2014 by Awdesch Melzer
 
 Input: 
-- 'n- number of observations
-- 'rho- correlation
-- 'mean_x- mean of x vector
-- 'mean_y- mean of y vector
-- 'rho- correlation
-- 'mean_x- mean of x vector
-- 'mean_y- mean of y vector
+- n- number of observations
+- rho- correlation
+- mean_x- mean of x vector
+- mean_y- mean of y vector
+- rho- correlation
+- mean_x- mean of x vector
+- mean_y- mean of y vector
 
 Output: 
-- 'Plot for the values of two bivariate normally distributed random variables
+- Plot for the values of two bivariate normally distributed random variables
 
-Example: Default settings: Plot for the mean_x = c(0,0), mean_y = c(4,0),
+Example: Default settings: Plot for the mean_x = c(0,0), mean_y = c(4,0), standard variance and rho = 0.9
 
 ```
 <div align="center">
