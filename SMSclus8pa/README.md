@@ -9,11 +9,11 @@ Name of Quantlet: SMSclus8pa
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: Employs the average linkage using squared Euclidean distance matrices
+Description: Employs the average linkage using squared Euclidean distance matrices to perform a cluster analysis on an 8 points example
 
 Keywords: cluster-analysis, dendrogram, linkage, euclidean, distance, plot
 
-See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclus8pmst2,
+See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Awdesch Melzer
 
