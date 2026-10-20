@@ -15,9 +15,9 @@ Keywords: conjoint analysis, analysis of variance, ANOVA, linear model
 
 See also: SMSconjcars, SMSconjexmp
 
-Author[r]: Jakub Pecanka
+Author: Jakub Pecanka, Awdesch Melzer
 
-Author[m]: Awdesch Melzer
+Submitted: 27.02.2015
 
 Example: summary of the regression model and ANOVA table
 
