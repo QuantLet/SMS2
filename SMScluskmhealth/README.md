@@ -9,11 +9,11 @@ Name of Quantlet: SMScluskmhealth
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: Performs a k-means cluster analysis with the standard algorithm (Lloyds)
+Description: Performs a k-means cluster analysis with the standard algorithm (Lloyds) on the 2005 US health data set. Four clusters are extracted and plotted with different colours for the first two principal components.
 
-Keywords: cluster-analysis, principal-components, plot, graphical representation,
+Keywords: cluster-analysis, principal-components, plot, graphical representation, partitioning
 
-See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pmst2, SMSclusbank,
+See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Simon Trimborn, Awdesch Melzer
 
@@ -24,7 +24,7 @@ Submitted: Fri, August 22 2014 by Awdesch Melzer
 Datafiles: ushealth05.csv
 
 Example: 
-- 'principal components of US health data 2005 with 4 coloured clusters
+- principal components of US health data 2005 with 4 coloured clusters
 
 ```
 <div align="center">
