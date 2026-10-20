@@ -20,8 +20,8 @@ Author: Alena Babiakova
 Submitted: Fri, August 07 2015 by Awdesch Melzer
 
 Example: 
-- 'Contour plot of simulated multivariate normal random numbers.
-- 'hexagon plot of simulated multivariate normal random numbers.
+- Contour plot of simulated multivariate normal random numbers.
+- hexagon plot of simulated multivariate normal random numbers.
 
 ```
 <div align="center">
