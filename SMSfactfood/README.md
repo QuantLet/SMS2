@@ -23,7 +23,7 @@ Datafile[r]: food.rda
 
 Datafile[m]: food.dat
 
-Example: Estimated factor loadings, communalities
+Example: Estimated factor loadings, communalities and specific variances are presented in a table, plots of varimax and manually rotated factor loadings are given
 
 Subfunctions[m]: factiter, factpf
 
