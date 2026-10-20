@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of Quantlet: SMStestcovwais
-
 Published in: Multivariate Statistics: Exercises and Solutions Series
 
 Description: Tests equality of matrices in Härdle & Simar (2015), Exercise 7.14. Test of equal covariance matrices of 4 subtests of the Wechseler Adult Intelligence Scale (WAIS) for 2 categories of people. group 1: n1=37 without senile factor, group 2: n2=12 with senile factor.
