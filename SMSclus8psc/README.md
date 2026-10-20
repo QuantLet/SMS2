@@ -9,11 +9,11 @@ Name of Quantlet: SMSclus8psc
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: Employs the spectral clustering algorithm on
+Description: Employs the spectral clustering algorithm on an 8 points example
 
-Keywords: cluster-analysis, spectral, plot, graphical representation,
+Keywords: cluster-analysis, spectral, plot, graphical representation, eigenvalues, eigenvectors
 
-See also: SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclusbank, SMSclusbank2,
+See also: SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Awdesch Melzer, Simon Trimborn
 
@@ -23,7 +23,7 @@ Submitted: Thu, October 02 2014 by Awdesch Melzer
 
 Submitted[Python]: Wed, September 9 2020 by Liudmila Gorkun-Voevoda
 
-Example: The 8 points example; second smallest eigenvalue: 0.9 and
+Example: The 8 points example; second smallest eigenvalue: 0.9 and corresponding eigenvector
 
 ```
 <div align="center">
