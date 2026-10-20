@@ -25,7 +25,7 @@ Datafile[m]: pullover.dat
 
 Output: Linear regression of sales (X1) on price (X2) from the pullovers data set.
 
-Example:  Scatterplot of pullover data with a regression line with and without outliers, and a boxplot
+Example: Scatterplot of pullover data with a regression line with and without outliers, and a boxplot
 
 ```
 <div align="center">
