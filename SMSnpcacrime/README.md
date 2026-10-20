@@ -15,9 +15,9 @@ Keywords: NPCA, dimension reduction, eigenvalues, eigenvectors, multi-dimensiona
 
 See also: SMSnpcacrime, SMSnpcageopol, SMSnpcasimu, SMSnpcathletic, SMSpcacarm, SMSpcahealth
 
-Author[r]: Zdenek Hlavka
+Author: Zdenek Hlavka, Janek Berger, Awdesch Melzer
 
-Author[m]: Janek Berger, Awdesch Melzer
+Submitted: 27.02.2015
 
 Datafile[r]: uscrime.rda
 
