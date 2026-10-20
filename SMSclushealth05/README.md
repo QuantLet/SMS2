@@ -9,11 +9,11 @@ Name of Quantlet: SMSclushealth05
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: Performs cluster analysis for US health 2005 data. On the
+Description: Performs cluster analysis for US health 2005 data. On the transformed data we perform a principal component analysis and a cluster analysis employing Eulcidean distance and Ward linkage algorithm. Plots of principal components and the dendrogram are presented. After extraction of 4 clusters, the principal components with the four clusters (denoted by different colours) are shown. The graphs and clustering differs from R due to different algorithms.
 
 Keywords: cluster-analysis, dendrogram, pca, principal-components, plot, graphical representation, Ward algorithm, euclidean, distance
 
-See also: MVAclus8p, MVAclusbank, MVAclusbh, MVAclusfood, MVAclususcrime, MVAdrugsim,
+See also: MVAclus8p, MVAclusbank, MVAclusbh, MVAclusfood, MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Awdesch Melzer
 
@@ -24,8 +24,8 @@ Submitted: Fri, August 22 2014 by Awdesch Melzer
 Datafiles: ushealth05.csv
 
 Example: 
-- 'ward dendrogram of 56 US states and associated regions for 9 health related causes of death
-- 'principal components of 4 clusters for 56 US states and associated regions using 9 health related causes of death
+- ward dendrogram of 56 US states and associated regions for 9 health related causes of death
+- principal components of 4 clusters for 56 US states and associated regions using 9 health related causes of death
 
 ```
 <div align="center">
